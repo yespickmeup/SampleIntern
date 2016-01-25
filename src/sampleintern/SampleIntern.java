@@ -18,6 +18,9 @@ public class SampleIntern {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("new codes from janica...");
+        System.out.println("hello world");
+        
+        
     }
     
 }
