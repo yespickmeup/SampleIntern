@@ -19,6 +19,7 @@ public class SampleIntern {
         // TODO code application logic here
         System.out.println("Janics baboy");
         System.out.println("hello world");
+        System.out.println("Jeniffer Lawrence");
         
         
     }
