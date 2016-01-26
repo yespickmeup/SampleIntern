@@ -17,7 +17,7 @@ public class SampleIntern {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Janics baboy");
+        System.out.println("bayot ka!");
         System.out.println("hello world");
         System.out.println("Jeniffer Lawrence");
         
