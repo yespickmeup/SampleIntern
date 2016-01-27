@@ -17,7 +17,7 @@ public class SampleIntern {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Peter Sulima...Kenneth ARcinue...Acinaj");
+        System.out.println("c kenneth kay bayot");
         System.out.println("hello world");
         
         
